@@ -26,7 +26,6 @@ function Index() {
                    </React.Fragment>
                   )}/>
               </Routes>
-              <Navigate to="/" />
         </Router>
      );
 }
