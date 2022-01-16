@@ -1,5 +1,5 @@
 import React from "react";
-
+import './style.css'
 import {useSelector} from 'react-redux'
 
 export const PostList = ()=>{
